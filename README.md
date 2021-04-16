@@ -30,4 +30,4 @@
 - [alexandred](https://github.com/alexandred) for providing VoodooI2C
 - [headkaze](https://github.com/headkaze) for providing the very useful [Hackintool](https://github.com/headkaze/Hackintool)
 - [daliansky](https://github.com/daliansky) for providing the awesome hotpatch guide [OC-little](https://github.com/daliansky/OC-little)
-- zxystd(https://github.com/zxystd) for providing AirportItlwm and IntelBluetoothFirmware
+- [zxystd](https://github.com/zxystd) for providing AirportItlwm and IntelBluetoothFirmware
