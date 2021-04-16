@@ -5,20 +5,25 @@
 
 ## 配置清单
 - Dell Inspiron 7579
-
-    - Intel i5-7200U
-    - 16GB RAM
-    - (1920x080) 触摸屏显示器（Touchscreen display）
-    - SK hynix SC308 SATA 256GB 
-    - Intel Wireless-AC 3165
-    - Integrated_Webcam_HD：
-        - 型号ID：	UVC Camera VendorID_3034 ProductID_22722
+		
+    - 处理器名称	DualCore Intel Core i5-7200U, 706 MHz (31 x 23)
+    - 主板名称	Dell Inspiron 15-7579
+    - 主板芯片组	Intel Sunrise Point-LP, Intel Kaby Lake-U
+    - 系统内存	16250 MB  (DDR4 SDRAM)
+    - 显示设备	
+        - 显示适配器	Intel(R) HD Graphics 620  (1 GB)
+        - 显示器	AU Optronics B156HAB (Dell 0079Y)  [15.6" LCD] (1920x080) 触摸屏显示器（Touchscreen display）
+    - 多媒体	
+        - 音频适配器	Realtek ALC225 @ Intel Sunrise Point-LP PCH - High Definition Audio Controller [C1]
+    - 存储设备	
+        - 硬盘驱动器	SK hynix SC308 SATA 256GB  (256 GB, SATA-III)
+    - 网络设备	
+        - 网络适配器	Intel(R) Dual Band Wireless-AC 3165
+    - DMI	
+        - DMI BIOS 厂商	Dell Inc.
+        - DMI BIOS 版本	1.31.0
     - 禁用设备
         - 读卡器（SD card reader）
-
-- 固件版本
-
-    - BIOS version 1.31.0
 
 ## 解锁CFG Lock
 | 名称     | 偏移量     | 默认值     | 修改值 |
