@@ -25,3 +25,9 @@
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | CFG Lock    | 0x4C7     | 0x01<br>（开启）   |0x00<br>（关闭）   |
 
+## Credits
+- [acidanthera](https://github.com/acidanthera) for providing almost all kexts and drivers
+- [alexandred](https://github.com/alexandred) for providing VoodooI2C
+- [headkaze](https://github.com/headkaze) for providing the very useful [Hackintool](https://github.com/headkaze/Hackintool)
+- [daliansky](https://github.com/daliansky) for providing the awesome hotpatch guide [OC-little](https://github.com/daliansky/OC-little)
+- zxystd(https://github.com/zxystd) for providing AirportItlwm and IntelBluetoothFirmware
