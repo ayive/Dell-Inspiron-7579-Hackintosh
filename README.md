@@ -1,5 +1,5 @@
 # Dell-Inspiron-7579-Hackintosh
-当前 macOS 版本 12.0 Beta版(21A5522h) / 当前 OC 版本 0.7.3<br>理论上支持 macOS 10.15 - 12.0 Beta7  
+当前 macOS 版本 12.3 Beta版(21E5212f) / 当前 OC 版本 0.7.9<br>理论上支持 macOS 10.15 - 12.3 Beta3  
 
 ![image](https://github.com/ayive/Dell-Inspiron-7579-Hackintosh/blob/main/%E6%88%AA%E5%B1%8F/%E6%88%AA%E5%B1%8F2021-09-23%2011.03.21.png)
 
