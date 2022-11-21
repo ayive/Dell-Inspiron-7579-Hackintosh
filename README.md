@@ -1,5 +1,5 @@
 # Dell-Inspiron-7579-Hackintosh
-当前 macOS 版本 12.3 Beta版(21E5212f) / 当前 OC 版本 0.7.9<br>理论上支持 macOS 10.15 - 12.3 Beta3  
+当前 macOS 版本 13.0.1 (22A400) / 当前 OC 版本 0.8.6<br>理论上支持 macOS 10.15 - 13.0.1
 
 ![image](https://github.com/ayive/Dell-Inspiron-7579-Hackintosh/blob/main/%E6%88%AA%E5%B1%8F/%E6%88%AA%E5%B1%8F2021-09-23%2011.03.21.png)
 
@@ -16,12 +16,12 @@
     - 多媒体	
         - 音频适配器	Realtek ALC225 @ Intel Sunrise Point-LP PCH - High Definition Audio Controller [C1]
     - 存储设备	
-        - 硬盘驱动器	SK hynix SC308 SATA 256GB  (256 GB, SATA-III)
+        - 硬盘驱动器	ZHITAI SC001 Active 512GB SSD
     - 网络设备	
         - 网络适配器	Intel(R) Dual Band Wireless-AC 3165
     - DMI	
         - DMI BIOS 厂商	Dell Inc.
-        - DMI BIOS 版本	1.33.0
+        - DMI BIOS 版本	1.36.0
     - 禁用设备
         - 读卡器（SD card reader）
 
