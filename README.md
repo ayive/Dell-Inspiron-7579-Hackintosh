@@ -18,7 +18,7 @@
     - 存储设备	
         - 硬盘驱动器	ZHITAI SC001 Active 512GB SSD
     - 网络设备	
-        - 网络适配器	Intel(R) Dual Band Wireless-AC 3165
+        - 网络适配器	Broadcom BCM94360CD
     - DMI	
         - DMI BIOS 厂商	Dell Inc.
         - DMI BIOS 版本	1.36.0
