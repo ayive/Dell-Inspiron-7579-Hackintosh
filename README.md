@@ -1,5 +1,5 @@
 # Dell-Inspiron-7579-Hackintosh
-当前 macOS 版本 13.0.1 (22A400) / 当前 OC 版本 0.8.6<br>理论上支持 macOS 10.15 - 13.0.1
+当前 macOS 版本 13.2.1 (22A400) / 当前 OC 版本 0.9.0<br>理论上支持 macOS 10.15 - 13.2.1
 
 ![image](https://github.com/ayive/Dell-Inspiron-7579-Hackintosh/blob/main/%E6%88%AA%E5%B1%8F/%E6%88%AA%E5%B1%8F2022-11-21%2010.37.53.png)
 
@@ -35,4 +35,3 @@
 - [alexandred](https://github.com/alexandred) for providing VoodooI2C
 - [headkaze](https://github.com/headkaze) for providing the very useful [Hackintool](https://github.com/headkaze/Hackintool)
 - [daliansky](https://github.com/daliansky) for providing the awesome hotpatch guide [OC-little](https://github.com/daliansky/OC-little)
-- [zxystd](https://github.com/zxystd) for providing AirportItlwm and IntelBluetoothFirmware
